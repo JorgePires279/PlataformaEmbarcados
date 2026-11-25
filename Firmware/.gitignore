@@ -1,0 +1,18 @@
+# Saídas de compilação
+Debug/
+Release/
+build/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.o
+*.d
+*.su
+*.cyclo
+
+# Arquivos locais do IDE
+.metadata/
+*.launch.bak
+.settings/language.settings.xml
